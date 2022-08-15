@@ -1,1 +1,2 @@
-# SentimentAnalysis
+Automate detection of different sentiments from textual comments and feedbacks
+The project on Automate detection of different sentiments from textual comments and feedback includes the concepts of machine learning and artificial intelligence. In this project I have used python as the language and have used google colaboratory for the coding environment. I have learnt and implemented machine learning features, tools and libraries such as nlp, lstm, sklearn, nltk, tensorflow, etc. In the model we can provide a dataset and we get the detection of the texts as positive, negative or neutral as our output. The prediction method predicts the sentiment of the texts hence we get the result.
